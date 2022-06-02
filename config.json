@@ -1,0 +1,9 @@
+{
+  "TOKEN": "OTgxODYwODgwMDg4MTk1MTQy.GHdpLt.mXpHDziEe4x7WVhKMkti9IH0_6MpUR3zKc6M0c",
+  "MAX_PLAYLIST_SIZE": 5000,
+  "PREFIX": "/",
+  "PRUNING": true,
+  "LOCALE": "zh_tw",
+  "STAY_TIME": 30,
+  "DEFAULT_VOLUME": 100
+}
